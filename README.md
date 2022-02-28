@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot 2022-02-28 at 2.35.14 PM.jpg)
 
 ### Built with
 
