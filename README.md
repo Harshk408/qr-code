@@ -9,24 +9,18 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-## Overview
-My process
+## My Process
 
-Built with
 
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
-Mobile-first workflow
-Continued development
+### Built with
 
-Improve the development by adding a custom QR code generator from which the user can enter their website and see the result displayed here with their custom text.
-Will try to recreate the above improvement in VueJS/ReactJS.
-Author
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
 
-Website - Harish Pillarisetti
-Frontend Mentor - @hpsetti
-Twitter - @hpsetti
+## Author
 
+
+- Twitter - [@chandlerbong0](https://twitter.com/chandlerbong0)
