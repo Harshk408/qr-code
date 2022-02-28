@@ -3,15 +3,15 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## My Process
 
+
+### Screenshot
+
+![](./screenshot.jpg)
 
 ### Built with
 
